@@ -29,7 +29,7 @@ pip install tensorflow matplotlib numpy
 ### Running the Script
 Simply execute the Python script:
 ```bash
-python cnn_pooling_comparison.py
+python PoolingML.py
 ```
 
 ## Conclusion
